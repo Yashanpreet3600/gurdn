@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12195033338",
+    "project_id": "guardianx-8efcd",
+    "storage_bucket": "guardianx-8efcd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12195033338:android:6cccc0a739209e4d755943",
+        "android_client_info": {
+          "package_name": "com.dailytools.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjEnAiTfXWxWlQQKxrS_zTUfOGnD8N7Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
